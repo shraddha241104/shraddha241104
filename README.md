@@ -5,7 +5,6 @@ On the back end, I use Node.js, SQL, and MongoDB to create scalable APIs and dat
 I enjoy solving real-world problems through clean and efficient code.
 Always learning, always building—check out my projects below!**
 
-Email Me 👉 ✉️ *shraddha241104* For Collaboration/Project or Anything Else. 😊😊
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__s_h_r_a_d_d_h_a__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shraddhadutta) 
 
